@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnnualAccount xmlns="http://e-submit.crm.com.mk/aaol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AATypeID="122" DocTypeID="150" LEID="rtgtrgretg" Year="2015" StatChangeTypeID="1" Period="2" WorkingMonths="">
+    <Operation ID="450">
+      <Form ID="35" xsi:type="form-35">
+
+      </Form>
+
+      <Form ID="36" xsi:type="form-36">
+            <AOP ID="1" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="2" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="3" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="4" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="5" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="6" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="7" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="8" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="9" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="10" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="11" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="12" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="13" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="14" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="15" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="16" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="17" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="18" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="19" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="20" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="21" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="22" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="23" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="24" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="25" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="26" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="27" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="28" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="29" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="30" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="31" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="32" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="33" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="34" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="35" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="36" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="37" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="38" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="39" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="40" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="41" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="42" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="43" Current="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="44" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="45" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="46" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="47" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="48" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="49" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="50" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="51" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="52" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="53" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="54" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="55" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="56" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="57" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="58" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="59" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="60" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="61" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="62" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="63" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="64" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="65" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="66" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="67" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="68" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="69" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="70" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="71" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="72" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="73" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="74" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="75" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="76" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="77" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="78" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="79" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="80" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="81" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="82" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="83" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="84" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="85" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="86" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="87" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="88" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="89" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="90" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="91" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="92" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="93" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="94" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="95" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="96" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="97" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="98" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="99" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="100" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="101" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="102" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="103" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="104" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="105" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="106" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="107" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="108" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="109" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="110" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="111" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+            <AOP ID="112" Current="0.0" Previous="0.0"  xsi:type="aop-form-36"/>
+      </Form>
+
+      <Form ID="37" xsi:type="form-37">
+            <AOP ID="201" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="202" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="203" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="204" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="205" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="206" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="207" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="208" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="209" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="210" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="211" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="212" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="213" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="214" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="215" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="216" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="217" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="218" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="219" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="220" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="221" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="222" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="223" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="224" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="225" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="226" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="227" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="228" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="229" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="230" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="231" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="232" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="233" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="234" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="235" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="236" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="237" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="238" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="239" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="240" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="241" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="242" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="243" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="244" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="245" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="246" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="247" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="248" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="249" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="250" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="251" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="252" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="253" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="254" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="255" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="256" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="257" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="258" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="259" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="260" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="261" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="262" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="263" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="264" Current="0.0" Previous="-"  xsi:type="aop-form-37"/>
+            <AOP ID="265" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="266" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="267" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+            <AOP ID="268" Current="0.0" Previous="0.0"  xsi:type="aop-form-37"/>
+      </Form>
+
+      <Form ID="38" xsi:type="form-38">
+
+      </Form>
+
+    </Operation>
+    <Statement>Изјавувам, под морална, материјална и кривична одговорност, дека податоците во годишната сметка се точни и вистинити.</Statement>
+</AnnualAccount>
